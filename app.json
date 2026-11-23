@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "welcome-scroll-rn",
+    "slug": "welcome-scroll-rn",
+    "version": "1.0.0",
+    "scheme": "welcomescrollrn",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "web": { "bundler": "metro" }
+  }
+}
