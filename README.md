@@ -76,6 +76,3 @@ welcome-scroll-rn/
 
 ![Aperçu de l'application](src/ScreenShots/3.png)
 
-
-
-Fait par **Marouane Chafiqi**
